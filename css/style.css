@@ -16,9 +16,10 @@ p{
 
 .filosofia{
   color:red;
+  line-height:100;
   font-family:serif;
   font-weight:bold;
   font-style:italic;
   text-align:justify;
-  line-height:100;
+  
 }
