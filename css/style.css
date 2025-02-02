@@ -13,3 +13,11 @@ p{
 #secreto{
   color:yellow;
 }
+
+p{
+ color:red;
+  font-family:serif;
+  font-weight:bold;
+  font-style:italic;
+  text-align:justify
+}
