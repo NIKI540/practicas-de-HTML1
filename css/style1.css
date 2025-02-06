@@ -20,5 +20,7 @@ div{
   background:Fuchsia;
   text-transform:uppercase;
   width:50%;
+}
+.formulario_contraseña{
   -webkit-text-security: disc;
 }
