@@ -21,6 +21,6 @@ div{
   text-transform:uppercase;
   width:50%;
 }
-.formulario_paswor{
+.password-input{
   -webkit-text-security: disc;
 }
