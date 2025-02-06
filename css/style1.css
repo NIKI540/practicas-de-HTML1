@@ -12,5 +12,11 @@ div{
 .formulario_input{
   color:white;
   background:black;
-  padding:10px;
+  padding:10px 50px;
+}
+.formulario_submit{
+  color:red;
+  background:Fuchsia;
+  text-transform:uppercase;
+  width:50%;
 }
