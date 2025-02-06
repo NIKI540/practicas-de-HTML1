@@ -20,4 +20,5 @@ div{
   background:Fuchsia;
   text-transform:uppercase;
   width:50%;
+  -webkit-text-security: disc;
 }
